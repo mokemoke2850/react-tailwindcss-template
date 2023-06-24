@@ -9,7 +9,7 @@ Installed the prettier, eslint and huscky.
 ## How to Install Library
 
 - [TailWindCSS](https://tailwindcss.com/docs/guides/vite)
-- [husky](https://zenn.dev/okaharuna/articles/aa715f2d9c1929#husky)
+- [husky](https://qiita.com/Naughty1029/items/789e9e0226fd50f151cd#%E3%82%B3%E3%83%9F%E3%83%83%E3%83%88%E6%99%82%E3%81%AE%E3%82%B3%E3%83%BC%E3%83%89%E8%87%AA%E5%8B%95%E6%95%B4%E5%BD%A2)
 
 ## Plugins of visual studio code
 
